@@ -1,0 +1,27 @@
+body
+{
+	background-color: rgb(253, 250, 240);
+}
+
+.carte
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.card
+{
+	background-color: rgb(253, 250, 240);
+}
+
+.card-header
+{
+	background-color: rgb(246, 194, 68);
+}
+
+.bott
+{
+	text-align: center;
+}
